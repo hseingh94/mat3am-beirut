@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/styles.css"],
+  "sourcesContent": ["/* You can add global styles to this file, and also import other style files */\r\nbody {\r\n    background: red !important;\r\n}"],
+  "mappings": "AACA,KACI,WAAY,aAChB",
+  "names": []
+}
